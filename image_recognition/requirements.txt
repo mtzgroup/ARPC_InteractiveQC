@@ -1,0 +1,4 @@
+pubchempy
+requests
+numpy 
+git+https://bitbucket.org/mtzcloud/tcc-python.git
